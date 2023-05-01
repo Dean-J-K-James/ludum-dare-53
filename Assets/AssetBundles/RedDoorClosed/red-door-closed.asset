@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02df02486468eb4ea869cc748aa1985, type: 3}
+  m_Name: red-door-closed
+  m_EditorClassIdentifier: 
+  colour:
+    serializedVersion: 2
+    rgba: 4278190330
+  sprite: {fileID: 21300000, guid: 441c8a0b6e72d8f4ca27b342d17fd110, type: 3}
+  gameObject: {fileID: 3023452745378436790, guid: 304a2bfdd00d8de41b1e7258bed72de6, type: 3}
+  walk: 0
+  interactable: 1

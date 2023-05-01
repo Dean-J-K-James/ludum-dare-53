@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8537e721f336dd14e863f1932c3eec66, type: 3}
+  m_Name: level-0
+  m_EditorClassIdentifier: 
+  texture: {fileID: 2800000, guid: 946c54014df9f5b48a0d78fd82186b90, type: 3}
+  spawnX: 3
+  spawnY: 2
+  message: Welcome to Puzzle Post! Walk up to the postbox to deliver the package.
